@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hKltuLUySsM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\RTSSHeadsetBatteryInfo\\RTSSHeadsetBatteryInfo\\RTSSHeadsetBatteryInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\hardcodet.notifyicon.wpf\\2.0.1\\hardcodet.notifyicon.wpf.2.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.26100.57\\microsoft.windows.sdk.net.ref.10.0.26100.57.nupkg.sha512"
+  ],
+  "logs": []
+}
