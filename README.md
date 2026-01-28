@@ -8,6 +8,8 @@ L’application utilise **headsetcontrol** pour récupérer les informations du 
 
 ## 📷 Showcase
 <img width="581" height="289" alt="{9F9AC018-CF73-4C6F-8409-9E58AA0FD503}" src="https://github.com/user-attachments/assets/fc7c5c18-bf6b-4583-aed9-a1303fe39e85" />
+<img width="27" height="28" alt="{73F3C50B-82DD-42A5-BF6F-662B318ABD78}" src="https://github.com/user-attachments/assets/a8fd0a0b-99c0-4929-9175-2b61bdfc8867" />
+<img width="25" height="27" alt="{BC9C9096-3FBB-4B34-96D2-71DD566111D7}" src="https://github.com/user-attachments/assets/19da4b9f-8bc1-4526-a078-b8305f061811" />
 <img width="506" height="224" alt="WPF UI Example" src="https://github.com/user-attachments/assets/8596ce5c-12ed-4936-8611-52493efd9121" />
 
 ---
