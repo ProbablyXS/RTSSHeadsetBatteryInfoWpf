@@ -1,43 +1,44 @@
 # 🎧 RTSS Headset Battery Info (WPF)
 
-RTSS Headset Battery Info est une application **WPF en C#** qui affiche le **niveau de batterie d’un casque sans fil** directement dans le **RivaTuner Statistics Server (RTSS) OSD**.
+**RTSS Headset Battery Info** is a **C# WPF application** that displays the **battery level of a wireless headset** directly in the **RivaTuner Statistics Server (RTSS) OSD**.
 
-L’application utilise **headsetcontrol** pour récupérer les informations du casque et les affiche en temps réel grâce à RTSS.
+The application uses **headsetcontrol** to retrieve headset information and displays it in real time through RTSS.
 
 ---
 
 ## 📷 Showcase
-<img width="581" height="289" alt="{9F9AC018-CF73-4C6F-8409-9E58AA0FD503}" src="https://github.com/user-attachments/assets/fc7c5c18-bf6b-4583-aed9-a1303fe39e85" />
-<img width="27" height="28" alt="{73F3C50B-82DD-42A5-BF6F-662B318ABD78}" src="https://github.com/user-attachments/assets/a8fd0a0b-99c0-4929-9175-2b61bdfc8867" />
-<img width="25" height="27" alt="{BC9C9096-3FBB-4B34-96D2-71DD566111D7}" src="https://github.com/user-attachments/assets/19da4b9f-8bc1-4526-a078-b8305f061811" />
+
+<img width="581" height="289" alt="RTSS OSD Example" src="https://github.com/user-attachments/assets/fc7c5c18-bf6b-4583-aed9-a1303fe39e85" />
+<img width="27" height="28" alt="Battery Icon" src="https://github.com/user-attachments/assets/a8fd0a0b-99c0-4929-9175-2b61bdfc8867" />
+<img width="25" height="27" alt="Charging Icon" src="https://github.com/user-attachments/assets/19da4b9f-8bc1-4526-a078-b8305f061811" />
 <img width="506" height="224" alt="WPF UI Example" src="https://github.com/user-attachments/assets/8596ce5c-12ed-4936-8611-52493efd9121" />
 
 ---
 
 ## ✨ Features
 
-- 🔋 Affiche le pourcentage de batterie du casque
-- 🎧 Détecte automatiquement le modèle du casque
-- 🔌 Indique si le casque est connecté ou éteint
-- 🔄 Actualisation automatique toutes les 2 secondes
-- 📊 Intégration native dans le OSD de RTSS
-- 🖼️ Interface graphique WPF légère et responsive
+- 🔋 Displays headset battery percentage
+- 🎧 Automatically detects the headset model
+- 🔌 Indicates whether the headset is connected or powered off
+- 🔄 Auto-refresh every 2 seconds
+- 📊 Native integration with RTSS OSD
+- 🖼️ Lightweight and responsive WPF interface
 
 ---
 
 ## 📦 Requirements
 
 - **Windows**
-- **.NET** (compatible avec RTSSSharedMemoryNET)
-- **RivaTuner Statistics Server (RTSS)** installé et en cours d’exécution
-- **headsetcontrol** installé et disponible dans le PATH  
+- **.NET** (compatible with RTSSSharedMemoryNET)
+- **RivaTuner Statistics Server (RTSS)** installed and running
+- **headsetcontrol** installed and available in the system `PATH`  
   👉 https://github.com/Sapd/HeadsetControl
 
 ---
 
-## 🛠️ Dépendances
+## 🛠️ Dependencies
 
-- [`RTSSSharedMemoryNET`](https://github.com/spencerhakim/RTSSSharedMemoryNET)
+- [RTSSSharedMemoryNET](https://github.com/spencerhakim/RTSSSharedMemoryNET)
 - `headsetcontrol.exe`
 - WPF (.NET Desktop Runtime)
 
@@ -45,6 +46,6 @@ L’application utilise **headsetcontrol** pour récupérer les informations du 
 
 ## 🚀 Installation
 
-1. Clonez le dépôt :
+1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/RTSSHeadsetBatteryInfo.git
